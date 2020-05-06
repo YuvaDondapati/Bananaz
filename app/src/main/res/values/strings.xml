@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bananaz</string>
+
+    <string name="rupeeSymbol"> \u20B9 </string>
+    <string name="email_text"> Email/Username </string>
+    <string name="password_text"> Password </string>
+    <string name="hint_email"> Please Enter Email </string>
+    <string name="hint_password"> Please Enter Password </string>
+    <string name="no_account_text">No Account yet? <font color='#0000FF'>Create One</font></string>
+    <string name="already_account_text">Already have an Account? <font color='#0000FF'>Login</font></string>
+    <string name="valid_email">Please Enter Valid email</string>
+    <string name="valid_password">Please Enter Valid password</string>
+    <string name="valid_Mobile">Please Enter Valid MobileNumber</string>
+</resources>

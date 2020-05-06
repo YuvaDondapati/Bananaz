@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/secondary" android:state_enabled="true" />
+    <item android:drawable="@color/disabledButton" android:state_enabled="false" />
+    <!-- default state-->
+    <item android:drawable="@color/secondary" />
+</selector>
