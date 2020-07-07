@@ -1,5 +1,5 @@
 # Bananaz
-Bananaz application for selling bananas in vijayawada
+Bananaz application for selling fruits in Andhra Pradesh
 #Screenshots
 
 Splash Screen
