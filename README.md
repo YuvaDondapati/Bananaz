@@ -15,4 +15,8 @@ Dashboard
 
 ![dashboard](https://user-images.githubusercontent.com/25319743/86772524-d5dba300-c071-11ea-9008-9dfd5dc9d895.jpg)
 
+Registration
+
+![egistrayion](https://user-images.githubusercontent.com/25319743/86774551-471c5580-c074-11ea-80a3-fe11b2e61643.jpg)
+
 #
