@@ -3,16 +3,16 @@ Bananaz application for selling fruits in Andhra Pradesh
 
 
 #Screenshots
+Splash screen
 
-Splash Screen
-![Screenshot_2020-07-07-16-06-33-602_com myproject bananaz](https://user-images.githubusercontent.com/25319743/86769941-8bf0be00-c06d-11ea-8c6d-775b27bdd218.jpg)
+![splash](https://user-images.githubusercontent.com/25319743/86772479-c3616980-c071-11ea-9071-c23948dec7df.jpg)
 
-Login
-![Screenshot_2020-07-07-16-06-46-812_com myproject bananaz](https://user-images.githubusercontent.com/25319743/86769867-7380a380-c06d-11ea-980d-0c96a8804409.jpg)
+Login Screen
+
+![Login](https://user-images.githubusercontent.com/25319743/86772493-c9574a80-c071-11ea-8d87-65c49148c0f1.jpg)
 
 Dashboard
-![Screenshot_2020-07-07-16-07-10-485_com myproject bananaz](https://user-images.githubusercontent.com/25319743/86769695-28669080-c06d-11ea-8cc6-dce6b8ca49c8.jpg)
 
-
+![dashboard](https://user-images.githubusercontent.com/25319743/86772524-d5dba300-c071-11ea-9008-9dfd5dc9d895.jpg)
 
 #
